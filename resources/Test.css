@@ -21,3 +21,30 @@ h1 {
     font-family: Helvetica;
 
 }
+
+.SecondSec h2 {
+    font-family: Helvetica;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(12, 219, 40);
+    background-color: rgb(20, 23, 220);
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.SecondSec p {
+    font-size: 25px;
+    font-family: Helvetica;
+
+}
+
+.ThirdSec h2 {
+    font-family: Helvetica;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(219, 88, 12);
+    background-color: rgb(228, 217, 217);
+}
